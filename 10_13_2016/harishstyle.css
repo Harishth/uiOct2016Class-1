@@ -1,0 +1,35 @@
+<style>
+body {
+    border: 2px solid black;
+    font-size:15px;
+    font-family:Arial; 
+    
+    }
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 5px 32px;
+    text-align: center;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button2 {
+    border: none;
+    color: white;
+    padding: 5px 32px;
+    text-align: center;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #f44336;} 
+   
+    .floating-box {
+    display: inline-block;
+     margin: 10px;
+     height:10pv
+    
+}
+   
+</style>
