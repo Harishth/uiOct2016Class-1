@@ -1,0 +1,75 @@
+body{
+ 
+  color: #000;
+  font-size: 22px;
+}
+#form_holder{
+  max-width: 500px;
+  margin: 100px auto;
+    background-color: #D3D3D3;
+  border: 1px solid # 000000;
+  padding: 30px;
+}
+.name input[type="text"]{
+  display: inline-block;
+  width: 50%;
+}
+input{
+  font-size:22px;
+  padding: 10px;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+}
+input[type="text"]{
+  width: 100%;
+}
+.checked_box{
+  text-align: center;
+  padding: 0 10px 20px;
+  color: #000;
+}
+.radio{
+  width: 50%;
+  display: inline-block;
+  text-align: center;
+}
+
+textarea{
+  width: 100%;
+  height: 100px;
+  margin-bottom: 20px;
+}
+ul{
+    list-style-type: none;
+}
+ul > li{
+    display: inline;
+    padding: 5px;
+}
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 5px 32px;
+    text-align: center;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button2 {
+    border: none;
+    color: white;
+    padding: 5px 32px;
+    text-align: center;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #f44336;} 
+   
+    .floating-box {
+    display: inline-block;
+     margin: 10px;
+     height:10pv
+    
+}
+   
